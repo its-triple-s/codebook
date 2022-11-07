@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Java programs"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"area_rectangle": "c",
+			"stdio.h": "c"
+		}
+	}
+}
